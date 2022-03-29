@@ -3,9 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=liorreznik&label=Profile%20views&color=0e75b6&style=plastic" alt="liorreznik" /> </p>
 
-- 🌱 I’m currently learning **Spring boot, Spring webFlex, GoLang**
-
-- 🔭 I’m currently working on Blockchain, simple database and much much more!!!
+- 🌱 I’m currently learning **Spring boot, Spring webFlex, Blockchain, Software Architectures (Mainly N-tier), MERN Stack**
 
 - 💬 Ask me about **Java, Python, Keras, TensorFlow2, Multithreading**
 
